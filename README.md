@@ -7,4 +7,4 @@
 
 [RIT](https://www.rit.edu)
 
-![an image](md-images/cassie.jpg)
+![an image](md-image/cassie.jpg)
